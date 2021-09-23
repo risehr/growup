@@ -1,0 +1,78 @@
+#abouthead{
+
+background-image: url(https://source.unsplash.com/1600x400/?background,dark,help);
+color: white;
+padding: 50px;
+border: solid green 2px;
+align-content: center;
+margin-top: 20px;
+    
+}
+h4{
+
+    color: azure;
+    position: relative;
+    align-content: center;
+    padding-left: 600px;
+    padding-top: 60px;
+    font-style: normal;
+    font: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h6{
+
+    color: beige;
+    position: relative;
+    align-content: center;
+    font-family: sans-serif;
+    padding-top: 40px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 60px;
+    font-size: large;
+}
+
+#abouttext{
+
+    
+    align-content: space-around;
+    padding-block-end: 20px;
+    margin-top: auto;
+
+
+}
+#head1{
+
+    color: green;
+    align-self: center;
+    margin-top: 30px;
+    background-blend-mode: soft-light;
+    text-underline-position: above;
+    background-origin: padding-box;
+    font-size: large;
+    text-align: center;
+    
+
+}
+#text1
+{
+    color: black;
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 50px;
+    border: solid green 1px;
+
+}
+#img{
+
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 25%;
+
+}
